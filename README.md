@@ -35,13 +35,13 @@ This dashboard provides insights into online sales performance, including:
 
 ---
 
-## 🖼 Dashboard Preview
+##  Dashboard Preview
 
 ![Dashboard](Online_sales.png)
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 * Tableau Public
 * Data Visualization

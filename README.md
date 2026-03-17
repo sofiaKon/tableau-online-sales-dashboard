@@ -2,7 +2,7 @@
 
 ##  Live Dashboard
 
-👉 [View on Tableau Public]([PASTE_YOUR_LINK_HERE](https://public.tableau.com/views/Book1_17737261104450/Onlinesales?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+👉 [View on Tableau Public](https://public.tableau.com/views/Book1_17737261104450/Onlinesales?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 

@@ -46,9 +46,3 @@ This dashboard provides insights into online sales performance, including:
 * Tableau Public
 * Data Visualization
 * Dashboard Design
-
----
-
-## 🚀 Author
-
-Sofia Kondovina
